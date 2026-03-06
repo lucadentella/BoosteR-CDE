@@ -1,6 +1,6 @@
 # BoosteR-CDE (my version)
 
-![](https://github.com/lucadentella/CS4/raw/main/images/foto.jpg)
+![](https://github.com/lucadentella/BoosteR-CDE/raw/main/images/foto.jpg)
 
 ## Description
 
@@ -12,7 +12,7 @@ This repository contains my version of the booster, **I'm not copying here** the
 
 ## Board
 
-![](https://github.com/lucadentella/CS4/raw/main/images/3drender.png)
+![](https://github.com/lucadentella/BoosteR-CDE/raw/main/images/3drender.png)
 
  - [Schematics (pdf)](https://github.com/lucadentella/BoosteR-CDE/blob/main/board/schematics.pdf)
  - [Gerber files for PCB manufacturing (zip)](https://github.com/lucadentella/BoosteR-CDE/raw/main/board/gerber.zip)
